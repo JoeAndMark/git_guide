@@ -28,3 +28,13 @@
 9. [Git 工具与扩展]()
 10. [常见问题与故障排除]()
 11. [资料与学习资料]()
+
+## 3 其他
+
+本教程的开源文档和更多内容可以在我的 GitHub 仓库中找到。如果您觉得本教程对您有帮助，不妨点个 Star 支持一下！
+
+- 我的 GitHub 开源地址：[JoeAndMark/git_guide](https://github.com/JoeAndMark/git_guide)
+
+如果您在学习过程中发现任何错误或有任何改进建立，欢迎随时提出。您可以在 [Issues](https://github.com/JoeAndMark/git_guide/issues) 中提交您的反馈，我会尽快处理。
+
+感谢您的支持和鼓励！期待大家共同进步！
