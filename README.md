@@ -17,17 +17,17 @@
 
 ## 2 合集目录
 
-1. [简介]()
-2. [安装与配置]()
-3. [Git 基础操作]()
-4. [分支与合并]()
-5. [远程仓库]()
-6. [协同工作]()
-7. [标签与版本发布]()
-8. [高级操作]()
-9. [Git 工具与扩展]()
-10. [常见问题与故障排除]()
-11. [资料与学习资料]()
+1. [简介](./01_introduction.md)
+2. [安装与配置](./02_installation_and_configuration.md)
+3. [Git 基础操作](03_basic_operations.md)
+4. [分支与合并](./04_branching_and_merging.md)
+5. [远程仓库](05_remote_repositories.md)
+6. [协同工作](./06_collaborative_work.md)
+7. [标签与版本发布](./07_tags_and_releases.md)
+8. [高级操作](./08_advanced_operations.md)
+9. [Git 工具与扩展](./09_tools_and_extensions.md)
+10. [常见问题与故障排除](./10_faq_and_troubleshooting.md)
+11. [资料与学习资料](./11_resources_and_learning_materials.md)
 
 ## 3 其他
 
