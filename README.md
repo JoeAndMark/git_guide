@@ -38,3 +38,53 @@
 如果您在学习过程中发现任何错误或有任何改进建议，欢迎随时提出。您可以在 [Issues](https://github.com/JoeAndMark/git_guide/issues) 中提交您的反馈，我会尽快处理。
 
 感谢您的支持和鼓励！期待大家共同进步！
+
+如果您想要贡献自己的想法，请遵循以下提交约定。
+
+### 3.1 提交约定
+
+#### 3.1.1 提交信息格式
+
+提交信息的结构如下所示：
+
+```text
+<类型>[可选 范围]: <描述>
+
+[可选 正文]
+
+[可选 脚注]
+```
+
+#### 3.1.2 类型
+
+提交信息的类型只应从如下类型中选择：
+
++ `feat`：新增章节或主要内容
++ `fix`：修正错误或拼写
++ `docs`：更新使用说明或参考文献
++ `style`：格式化或排版调整
++ `refactor`：重组章节或内容调整
++ `test`：添加或修改书籍的测试材料（如练习题）
++ `chore`：其他维护性任务，如更新工具或配置
+
+提交示例：
+
++ `feat: 添加第一章内容`
++ `fix: 修正错误或拼写`
++ `docs: 更新参考文献列表`
++ `style: 调整章节标题格式`
++ `refactor: 重新组织第三章结构`
++ `test: 添加第四章的练习题`
++ `chore: 更新 LaTeX 模版`
+
+> [!note]
+>
+> 注意：`<类型>` 后的冒号（`:`）应为英文输入法下的冒号，而非（`：`）
+
+#### 3.1.3 Conventional Commits
+
+本仓库的提交约定基于 Conventional Commits 进行修改，如果您想要了解更多关于 Conventional Commits 的信息，可以通过以下方式：
+
++ GitHub 官方托管仓库：[conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org)
++ 官方网站：[Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+
